@@ -1,0 +1,12 @@
+pypdf
+langchain
+langchain_community
+PyPDF2
+chromadb
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+chainlit==1.0.200
